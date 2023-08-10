@@ -1,5 +1,5 @@
-# Food_Delivery-App
-#Final Project
+# Food_Ordering-App
+# Final Project
 
 import json
 import datetime
